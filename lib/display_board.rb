@@ -6,3 +6,5 @@ def display_method
   puts "-----------"
   puts "   |   |   "
 end
+
+display_method
